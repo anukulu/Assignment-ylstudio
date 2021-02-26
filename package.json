@@ -1,0 +1,22 @@
+{
+  "name": "proxy-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openreply/emw-health-check": "^2.0.1",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "microstats": "^0.1.2",
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0",
+    "nodejs-health-checker": "^1.1.6",
+    "system-health-monitor": "^1.2.1"
+  }
+}
